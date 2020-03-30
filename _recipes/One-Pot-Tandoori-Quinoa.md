@@ -1,7 +1,7 @@
 ---
-layout: recipe
+layout: recipe-post
 title: "One Pot Tandoori Quinoa"
-categories: recipes nutrition
+categories: recipe nutrition
 ---
 
 <b>Ingredients</b>

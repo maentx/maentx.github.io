@@ -1,7 +1,7 @@
 ---
-layout: recipe
+layout: recipe-post
 title: "Malai Kofta"
-categories: recipes nutrition
+categories: recipe nutrition
 ---
 
 <b>Ingredients</b>

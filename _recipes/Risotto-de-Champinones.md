@@ -1,7 +1,7 @@
 ---
-layout: recipe
+layout: recipe-post
 title: "Risotto de Champiñones"
-categories: recipes nutrition
+categories: recipe nutrition
 ---
 
 <b>Ingredients</b>

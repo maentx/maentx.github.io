@@ -1,7 +1,7 @@
 ---
-layout: recipe
+layout: recipe-post
 title:  "Ethiopian Green Beans and Potatoes"
-categories: recipes nutrition
+categories: recipe nutrition
 ---
 
 <b>Ingredients</b>
@@ -21,4 +21,4 @@ categories: recipes nutrition
 1. Add oil, green chili and spices in the pan and fry until well blended and fragrant.
 1. Add potatoes, green beans, tomatoes and lime. Bring to boil and lower heat afterwards. Cook for 7 to 10 minutes.
 
-Adapted from <a href="https://www.justapinch.com/recipes/side/vegetable/ethiopian-green-beans-and-potatoes.html">justapinch</a>
+Adapted from <a href="https://www.justapinch.com/recipe/side/vegetable/ethiopian-green-beans-and-potatoes.html">justapinch</a>

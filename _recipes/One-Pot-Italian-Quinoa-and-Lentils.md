@@ -1,7 +1,7 @@
 ---
-layout: recipe
+layout: recipe-post
 title: "One Pot Italian Quinoa and Lentils"
-categories: recipes nutrition
+categories: recipe nutrition
 ---
 
 <b>Ingredients</b>
