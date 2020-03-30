@@ -1,9 +1,7 @@
 ---
-layout: recipe
+layout: recipe-landing
 title: Recipes
 ---
-<h1>Recipes</h1>
-
 <ul>
   {% for recipe in site.recipes %}
     <li>
