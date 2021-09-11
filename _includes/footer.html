@@ -1,9 +1,26 @@
+<style>
+.site-footer {
+    padding: 0px;
+    border: none;
+}
+.site-footer ul {
+    list-style: none;
+    text-align: center;
+    margin: 0px;
+    background-color: white;
+}
+.site-footer ul li {
+    display: inline-block;
+    padding: 15px;
+}
+.site-footer ul a {
+    color: gray;
+    text-decoration: none;
+}
+.site-footer ul li:hover a {
+    opacity: 75%;
+}
+</style>
 <footer class="site-footer h-card">
-  <div class="wrapper">
-    <div class="footer-col-wrapper">
-      <div class="footer-col">
-        {%- include social.html -%}
-      </div>
-    </div>
-  </div>
+    {%- include social.html -%}
 </footer>
